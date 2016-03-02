@@ -3,6 +3,9 @@ package crunching.rxandroid.workshop;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import rx.Observable;
+import rx.Subscriber;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
